@@ -451,11 +451,6 @@ Partners section
   height: 150px;
 }
 
-.partners_logo_image {
-  width: 250px;
-  height: 40px;
-}
-
 /* Partners section END
 ############################################################
 Footer section
@@ -491,14 +486,6 @@ Footer section
   height: auto;
 }
 
-.right_reserved {
-  font-weight: 560;
-  font-size: 15px;
-  color: #272a31;
-  margin-bottom: 10px;
-  font-family: 'Lato', sans-serif;
-}
-
 .footer_text {
   font-weight: 500;
   font-size: 15px;
@@ -521,13 +508,6 @@ Footer section
   font-size: 15px;
   color: #272a31;
   margin-bottom: 10px;
-  font-family: 'Lato', sans-serif;
-}
-
-.footer_text {
-  font-weight: 500;
-  font-size: 15px;
-  color: #272a31;
   font-family: 'Lato', sans-serif;
 }
 
