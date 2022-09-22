@@ -9,9 +9,14 @@
 
 ## Screenshot
 
-![readme](./images/screenshoots/mobile-version-1.png)
-![readme](./images/screenshoots/mobile-version-2.png)
-![readme](./images/screenshoots/mobile-version-3.png)
+![readme](./assets/screenshoots/M1.png)
+![readme](./assets/screenshoots/M2.png)
+![readme](./assets/screenshoots/D1.png)
+![readme](./assets/screenshoots/D2.png)
+
+# Live Demo
+
+[Live Demo Link](https://reemmohamedabdelfatah.github.io/EgyptJuniorsProgrammingSummit-Capstone-1/)
 
 # Design
 Credit goes to **Cindy Shin's** design on [Behance] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). This is a mockup of Cindy's design.
@@ -21,7 +26,6 @@ Major languages: HTML-CSS-JS
 Frameworks: NodeJS
 Technologies used: VSCode, GitHub, Linter
 
-[Live Demo Link](https://reemmohamedabdelfatah.github.io/EgyptJuniorsProgrammingSummit-Capstone-1/)
 
 ## Getting Started
 To get a local copy, follow these simple steps.

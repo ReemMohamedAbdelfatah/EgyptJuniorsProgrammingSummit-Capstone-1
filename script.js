@@ -51,7 +51,7 @@ const speakerCardsItems = [
   {
     speaker_image: 'assets/images/speaker_ahmed.jpeg',
     speaker_name: 'Eng. Ahmed Abdelfatah',
-    speaker_bio: 'Android developer',
+    speaker_bio: 'Android Developer',
   },
   {
     speaker_image: 'assets/images/speaker_abdelfatah.jpeg',
