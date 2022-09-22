@@ -21,7 +21,7 @@ Major languages: HTML-CSS-JS
 Frameworks: NodeJS
 Technologies used: VSCode, GitHub, Linter
 
-[Live Demo Link]()
+[Live Demo Link](https://reemmohamedabdelfatah.github.io/EgyptJuniorsProgrammingSummit-Capstone-1/)
 
 ## Getting Started
 To get a local copy, follow these simple steps.

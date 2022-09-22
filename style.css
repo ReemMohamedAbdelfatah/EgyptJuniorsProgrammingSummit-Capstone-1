@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   gap: 10px;
   width: 70%;
-  height: 100vh;
+  height: 900px;
 }
 
 .p-div {
@@ -351,7 +351,6 @@ li {
   flex-direction: column;
   width: 60%;
   height: 100%;
-  margin-top: 20px;
 }
 
 .speaker_name {
@@ -445,7 +444,7 @@ Partners section
 .partners_logos {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 90%;
   height: 150px;
@@ -469,7 +468,6 @@ Footer section
 .footer_main_div {
   display: flex;
   flex-direction: row;
-  width: 70%;
   align-items: center;
   justify-content: center;
   gap: 30px;
@@ -496,11 +494,13 @@ Footer section
 .partners_logo_image {
   width: 250px;
   height: 40px;
+  object-fit: contain;
 }
 
 #mindvalley {
   width: 250px;
   height: 80px;
+  object-fit: contain;
 }
 
 .right_reserved {
@@ -509,6 +509,14 @@ Footer section
   color: #272a31;
   margin-bottom: 10px;
   font-family: 'Lato', sans-serif;
+}
+
+.desktop-nav {
+  display: none;
+}
+
+.container-nav {
+  display: none;
 }
 
 /* Desktop version start */
@@ -530,6 +538,111 @@ Footer section
     max-width: 200px;
     max-height: 200px;
     margin-left: 50px;
-    margin-top: 50px;
+  }
+
+  .desktop-nav {
+    background-color: #272a31;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .container-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+  }
+
+  .nav-list {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-right: 60px;
+  }
+
+  .black-nav-items a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .nav-link a {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+    color: #272a31;
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+  }
+
+  .nav-link a:hover {
+    color: #ec5242;
+  }
+
+  .nav-link a:active {
+    color: #ec5242;
+  }
+
+  .campaign_link {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #ec5242;
+    padding: 10px;
+  }
+
+  .black-nav-items {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 60px;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  .header-section {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 70%;
+    height: 900px;
+  }
+
+  .program_cards_div {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    height: 100%;
+    padding: 16px;
+    gap: 5px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .program_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 30px 10px;
+    width: 100%;
+    background-color: rgba(168, 168, 168, 0.4);
+  }
+
+  .see_the_whole_program {
+    display: block;
+    margin: 20px;
+  }
+
+  .join_button {
+    display: none;
   }
 }
