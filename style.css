@@ -19,7 +19,7 @@ body {
 .header {
   background-image: url("assets/images/background.png");
   width: 100vw;
-  max-height: 100vh;
+  height: auto;
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   gap: 10px;
   width: 70%;
-  height: 900px;
+  height: auto;
 }
 
 .p-div {
@@ -60,6 +60,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .slogan {
@@ -612,7 +613,6 @@ Footer section
     flex-direction: column;
     gap: 10px;
     width: 70%;
-    height: 900px;
   }
 
   .program_cards_div {
