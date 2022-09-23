@@ -42,14 +42,14 @@ body {
   padding: 10px;
   font-family: "Lato", sans-serif;
   font-weight: 500;
-  font-size: 15px;
-  margin-bottom: 20px;
+  font-size: 20px;
+  margin-bottom: 40px;
 }
 
 .date_of_event {
   margin-top: 10px;
   font-weight: 600;
-  font-size: 25px;
+  font-size: 40px;
   color: #272a31;
   font-family: "COCOGOOSE", sans-serif;
 }
@@ -66,12 +66,13 @@ body {
   color: #ec5242;
   font-family: "Lato", sans-serif;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 60px;
   margin-bottom: 20px;
 }
 
 .header-image-div {
   width: 100%;
+  margin-bottom: 40px;
 }
 
 #img-event-title {
@@ -89,7 +90,7 @@ li {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(255, 118, 55, 0.5);
+  background-color: rgb(223, 223, 223, 0.7);
   backdrop-filter: blur(5px);
   transition: 0.6s;
 }
@@ -462,7 +463,7 @@ Footer section
   align-items: center;
   width: 100%;
   height: 250px;
-  background-color: #fff;
+  background-color: #f2f1f1;
 }
 
 .footer_main_div {
