@@ -9,19 +9,21 @@
 
 ## Screenshot
 
-![readme](./images/screenshoots/mobile-version-1.png)
-![readme](./images/screenshoots/mobile-version-2.png)
-![readme](./images/screenshoots/mobile-version-3.png)
+![readme](./assets/screenshoots/M1.png)
+![readme](./assets/screenshoots/M2.png)
+![readme](./assets/screenshoots/D1.png)
+![readme](./assets/screenshoots/D2.png)
 
-# Design
-Credit goes to **Cindy Shin's** design on [Behance] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). This is a mockup of Cindy's design.
+# Live Demo
+
+[Live Demo Link](https://reemmohamedabdelfatah.github.io/EgyptJuniorsProgrammingSummit-Capstone-1/)
+
 
 # Built With
 Major languages: HTML-CSS-JS
 Frameworks: NodeJS
 Technologies used: VSCode, GitHub, Linter
 
-[Live Demo Link]()
 
 ## Getting Started
 To get a local copy, follow these simple steps.
@@ -71,6 +73,14 @@ Eslint for correct javascript files.
 - GitHub: [@github](https://github.com/ReemMohamedAbdelfatah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/reem-abd-el-fatah-a07543116)
 
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+- Design
+Credit goes to **Cindy Shin's** design on [Behance] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015). This is a mockup of Cindy's design.
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -81,11 +91,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
